@@ -1,0 +1,28 @@
+{
+  "name": "google-pay-cordova-plugin",
+  "version": "1.0.0",
+  "description": "Cordova ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cordova",
+    "apex-oem-provisioning-sdk",
+    "android"
+  ],
+  "author": "anb",
+  "license": "MIT",
+  "engines": {
+    "cordova": ">=3.4.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

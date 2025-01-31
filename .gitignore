@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Cordova platforms
+platforms/
+
+# Cordova plugins
+plugins/
+
+# Build directories
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
